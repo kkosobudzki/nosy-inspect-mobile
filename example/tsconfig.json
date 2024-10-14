@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@nosytools/inspect-mobile": ["../src/index"],
+      "@nosytools/inspect-mobile/*": ["../src/*"]
+    }
+  }
+}
