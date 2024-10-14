@@ -25,9 +25,9 @@
   "bugs": {
     "url": "https://github.com/kkosobudzki/nosytools-inspect-mobile/issues"
   },
-  "author": "Krzysztof Kosobudzki <krzysztof.kosobudzki@gmail.com> (https://github.com/kkosobudzki)",
-  "license": "MIT",
-  "homepage": "https://github.com/kkosobudzki/nosytools-inspect-mobile#readme",
+  "author": "Krzysztof Kosobudzki",
+  "license": "GPL-3.0-only",
+  "homepage": "https://nosytools.dev/inspect/",
   "dependencies": {},
   "devDependencies": {
     "@types/react": "^18.0.25",
