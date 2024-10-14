@@ -18,8 +18,7 @@
   "keywords": [
     "react-native",
     "expo",
-    "@nosytools/inspect-mobile",
-    "NosyInspectMobile"
+    "@nosytools/inspect-mobile"
   ],
   "repository": "https://github.com/kkosobudzki/nosytools-inspect-mobile",
   "bugs": {

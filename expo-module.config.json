@@ -1,9 +1,18 @@
 {
-  "platforms": ["ios", "tvos", "android", "web"],
+  "platforms": [
+    "ios",
+    "tvos",
+    "android",
+    "web"
+  ],
   "ios": {
-    "modules": ["NosyInspectMobileModule"]
+    "modules": [
+      "NosyInspectModule"
+    ]
   },
   "android": {
-    "modules": ["dev.nosytools.rninspect.NosyInspectMobileModule"]
+    "modules": [
+      "dev.nosytools.rninspect.NosyInspectModule"
+    ]
   }
 }

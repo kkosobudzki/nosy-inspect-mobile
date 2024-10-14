@@ -1,11 +1,11 @@
 import { StyleSheet, Text, View } from 'react-native';
 
-import * as NosyInspectMobile from '@nosytools/inspect-mobile';
+import * as NosyInspect from '@nosytools/inspect-mobile';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>{NosyInspectMobile.hello()}</Text>
+      <Text>{NosyInspect.hello()}</Text>
     </View>
   );
 }
